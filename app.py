@@ -3,7 +3,6 @@ import streamlit as st
 st.title("🏡 Gurgaon Real Estate Insights")
 
 st.markdown("""
-### Welcome, Shona! 💖
 Discover key insights into Gurgaon’s property market with AI-driven analytics and smart recommendations.
 
 ---
